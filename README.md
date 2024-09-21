@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on **Konkuk University** and I'm majoring in **Computer Science and Engineering**
-- 🌱 I’m currently learning **Spring Boot** and **Spring**
+- 🌱 I’m currently learning **Spring Boot**
     <br/>
