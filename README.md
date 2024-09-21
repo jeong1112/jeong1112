@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JeongYeon%20Lee&fontSize=90)
+
 - 🔭 I’m currently working on **Konkuk University** and I'm majoring in **Computer Science and Engineering**
 - 🌱 I’m currently learning **Spring Boot**
     <br/>
+
