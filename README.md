@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Spring Boot**
 <br/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=idwjddus)](https://solved.ac/idwjddus/)
+
+<br/>
+
 ### **LANGUAGE**
 
 Most Using:
